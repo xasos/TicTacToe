@@ -9,7 +9,7 @@ public class TicTacToeRunner
 
         Scanner in = new Scanner(System.in);
         String player = "x";
-        TicTacToe x = new TicTacToe(); //Instance of the class TicTacToe
+        TicTacToe x = new TicTacToe(); 
         boolean done = false;
         while (!done)
         {
